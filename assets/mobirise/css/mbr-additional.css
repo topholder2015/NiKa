@@ -2669,40 +2669,48 @@ body {
 .cid-ryhvITOpyc H2 {
   color: #1ba20f;
 }
-.cid-ryhqUh5i4M {
+.cid-rzi136eWqA {
   padding-top: 45px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-ryhqUh5i4M h4 {
+.cid-rzi136eWqA h4 {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
   padding-top: 2rem;
 }
-.cid-ryhqUh5i4M p {
+.cid-rzi136eWqA p {
   margin-bottom: 0;
   text-align: left;
   padding-top: 1.5rem;
 }
-.cid-ryhqUh5i4M .mbr-section-btn {
+.cid-rzi136eWqA .mbr-section-btn {
   padding-top: 2.5rem;
 }
-.cid-ryhqUh5i4M .mbr-section-btn a {
+.cid-rzi136eWqA .mbr-section-btn a {
   margin: 0;
 }
-.cid-ryhqUh5i4M .mbr-text {
+.cid-rzi136eWqA .mbr-text {
   color: #767676;
 }
-.cid-ryhqUh5i4M .card-wrapper {
+.cid-rzi136eWqA .card-wrapper {
   height: 100%;
 }
 @media (max-width: 767px) {
-  .cid-ryhqUh5i4M .card:not(.last-child) {
+  .cid-rzi136eWqA .card:not(.last-child) {
     padding-bottom: 2rem;
   }
 }
-.cid-ryhqUh5i4M H2 {
+.cid-rzi136eWqA H2 {
+  text-align: center;
+}
+.cid-rzi136eWqA .card-title {
+  color: #1ba20f;
+  text-align: center;
+}
+.cid-rzi136eWqA .mbr-text,
+.cid-rzi136eWqA .mbr-section-btn {
   text-align: center;
 }
 .cid-ryhqVH960i {
