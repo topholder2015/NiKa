@@ -1848,7 +1848,7 @@ body {
 }
 .cid-rz6tOBqNHQ {
   padding-top: 45px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-rz6tOBqNHQ h4 {
@@ -1921,14 +1921,17 @@ body {
   line-height: 40px;
   transition: all .2s;
   color: #ffffff;
-  background: #149dcc;
+  background: #1ba20f;
   width: 40px;
   height: 40px;
   border-radius: 50%;
 }
+.cid-rz6v2adJmk .mbr-text {
+  text-align: left;
+}
 .cid-rz6v2QrZUM {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-rz6v2QrZUM h4 {
